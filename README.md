@@ -1,4 +1,6 @@
-## Hi there 👋
+- 📝 Comp Eng Student @ UFPel
+- 🌱 Currently working on [ReaCloud](https://reacloud.duckdns.org)
+- 💫 Fun fact:  I've been using Linux for almost a decade and already loved it before even deciding on a career with computers. 🐧❤️
 
 <!--
 **maducarmona/maducarmona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
